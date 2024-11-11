@@ -1,7 +1,3 @@
-Here’s a `README.md` template for your CLI quiz game. This guide will help users understand the project, installation steps, and usage.
-
----
-
 # Quiz CLI
 
 **Quiz CLI** is a command-line-based quiz game built with Node.js, featuring a fun set of questions around geopolitics and geography. Test your knowledge and aim for a perfect score!

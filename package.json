@@ -1,0 +1,20 @@
+{
+  "name": "@akshit2k/quiz-cli",
+  "version": "1.0.0",
+  "description": "A CLI-based quiz game built with Node.js",
+  "type": "module",
+  "main": "app.js",
+  "bin": {
+    "quiz-game": "./index.js"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "readline-sync": "^1.4.10"
+  }
+}
